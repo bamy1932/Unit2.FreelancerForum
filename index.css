@@ -1,0 +1,12 @@
+div {
+  display: flex;
+  flex-direction: row;
+  width: 400px;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+}
+.container {
+  align-items: center;
+  margin: 0 auto;
+}
